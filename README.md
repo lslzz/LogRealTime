@@ -1,4 +1,4 @@
 # LogRealTime
 lslalarmsys
 
-基于 flume + kafka + flink + flinkCDC + hbase 的实时日志告警系统
+基于 flume + kafka + flink + flinkCDC + hbase + MySQL的实时日志告警系统
